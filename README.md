@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @number453
 - 👀 I’m interested in software development and cybersecurity.
 - 🌱 I’m currently learning Software Development at LCCC.
-- 💞️ I’m looking to collaborate on different projects.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: 2kdidit@gmail.com
 
 <!---
